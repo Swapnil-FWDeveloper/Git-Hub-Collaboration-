@@ -9,7 +9,9 @@ https://replit.com/@SwapnilShende1/VariablesDay-1#problem_one.js
     <title>Introduction to JS (Variables & Data Types) </title>
 </head>
 <body>
+    
     <h1>Print "Masai School" in the console followed by "A Transformation in Education" in next line</h1>
+    
 </body>
 </html>
 
